@@ -19,6 +19,10 @@
 - 🎯 My goal is to become a professional Software Engineer
 - 📫 Always excited to learn new technologies and explore new ideas.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhid3312/Muhid3312/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 🛠️ Languages and Tools
@@ -46,10 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhid3312&theme=tokyo-night&hide_border=true&area=true" alt="Muhid3312's Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muhid3312/Muhid3312/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
